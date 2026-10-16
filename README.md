@@ -1,11 +1,11 @@
-# ClearLedger Downloads
+# SumQuill Downloads
 
-Official Windows installers, portable downloads and release notes for ClearLedger.
+Official Windows installers, portable downloads and release notes for SumQuill.
 
-[Download the latest release](https://github.com/Software-Ventures/ClearLedger-Releases/releases/latest)
+[Download the latest release](https://github.com/Software-Ventures/SumQuill-Releases/releases/latest)
 
-Choose **ClearLedger-win-Setup.exe** for installation and in-app updates, or
-**ClearLedger-win-Portable.zip** for a portable copy with manual updates.
+Choose **SumQuill-win-Setup.exe** for installation and in-app updates, or
+**SumQuill-win-Portable.zip** for a portable copy with manual updates.
 Windows 10/11 x64 is supported. Settings controls automatic checks and downloads;
 installing an update always requires a confirmed restart.
 
